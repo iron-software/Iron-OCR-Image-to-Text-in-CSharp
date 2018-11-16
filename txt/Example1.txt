@@ -1,0 +1,6 @@
+﻿Iron OCR Simple Example
+
+In this simple example we will test the accuracy of our C# OCR library to read text from a PNG Image.  This is a very basic test, but things will get more complicated as the tutorial continues.
+
+
+The quick brown fox jumps over the lazy dog
